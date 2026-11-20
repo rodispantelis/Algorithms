@@ -1,4 +1,6 @@
-# Genetic Algorithms
+# Algorithms
+
+## Genetic Algorithms
 
 * **Parameter-Tuning**. A tuning algorithm that optimizes the running parameters of other applications. Used in [1].
 
